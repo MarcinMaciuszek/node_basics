@@ -1,0 +1,22 @@
+{
+  "name": "node_basics",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MarcinMaciuszek/node_basics.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MarcinMaciuszek/node_basics/issues"
+  },
+  "homepage": "https://github.com/MarcinMaciuszek/node_basics#readme",
+  "dependencies": {
+    "faker": "^5.5.3"
+  }
+}
