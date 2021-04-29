@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "mocha || true"
   },
   "repository": {
     "type": "git",
@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/MarcinMaciuszek/node_basics#readme",
   "dependencies": {
-    "faker": "^5.5.3"
+    "chai": "^4.3.4",
+    "faker": "^5.5.3",
+    "mocha": "^8.3.2"
   }
 }
